@@ -1,0 +1,29 @@
+{
+  "name": "simpl",
+  "version": "1.0.0",
+  "description": "Our mission is to make money simple, so that people can live well and do amazing things.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandants/node-simpl.git"
+  },
+  "keywords": [
+    "simpl"
+  ],
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikandants/node-simpl/issues"
+  },
+  "homepage": "https://github.com/manikandants/node-simpl#readme",
+  "devDependencies": {
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
