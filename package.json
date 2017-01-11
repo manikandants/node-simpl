@@ -1,5 +1,5 @@
 {
-  "name": "simpl",
+  "name": "getsimpl",
   "version": "1.0.0",
   "description": "Our mission is to make money simple, so that people can live well and do amazing things.",
   "main": "./lib/index.js",
@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/manikandants/node-simpl#readme",
   "devDependencies": {
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
     "jscs": "^3.0.7",
     "jshint": "^2.9.4"
   },
